@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086424276672",
+    "project_id": "chatbot2-7d7c2",
+    "storage_bucket": "chatbot2-7d7c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086424276672:android:a905e754ee41dc0ea41725",
+        "android_client_info": {
+          "package_name": "ahmedmoheb.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086424276672-msfjro0lso1dfg7o4sd5aajc9nm3dv3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ahmedmoheb.chatbot",
+            "certificate_hash": "62b88d37ca34cde0cbb9336dc6fc9fff96081ac3"
+          }
+        },
+        {
+          "client_id": "1086424276672-9memhblig5e5lv8bm9qgq74skpt0jfla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidEN_2bZ0nl8w4bL8R4c6RyG85V32oBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086424276672-9memhblig5e5lv8bm9qgq74skpt0jfla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
